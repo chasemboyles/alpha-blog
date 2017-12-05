@@ -1,0 +1,9 @@
+1) Create a new Rails application and call it alpha-blog
+
+2) Ensure that you can run the server and preview the application
+
+3) within it create a pages controller
+
+4) ensure you have appropriate routes
+
+5) create a homepage, and about page
